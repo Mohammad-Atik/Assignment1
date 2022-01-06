@@ -1,0 +1,203 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-family: "Lora", serif;
+  font-family: "Playfair Display", serif;
+  font-family: "Roboto Slab", serif;
+  font-size: 60px;
+  padding-left: 4%;
+}
+.heading-mission {
+  color: rgb(143, 31, 3);
+}
+.main-heading {
+  border-left: 5px solid orangered;
+}
+
+.section-1 {
+  display: flex;
+}
+
+.half-width {
+  width: 70%;
+  margin-top: 5%;
+  margin-left: 10%;
+  margin-bottom: 5%;
+}
+
+.half-width img {
+  width: 60%;
+}
+
+.section1-paragraph {
+  padding-bottom: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.link-button {
+  border-radius: 5px;
+  background-image: linear-gradient(orangered, tomato);
+  text-decoration: none;
+  padding: 15px 30px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.scroll {
+  padding-top: 20px;
+}
+
+.section-2 {
+  text-align: center;
+  margin-bottom: 10%;
+}
+
+h3 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 30px;
+}
+
+.year {
+  color: rgb(143, 31, 3);
+}
+
+#flex-cont {
+  display: flex;
+  width: 70%;
+}
+
+#flex-cont img {
+  width: 170%;
+  border-radius: 10%;
+}
+
+.mission {
+  background-color: rgba(179, 245, 236, 0.288);
+  border-radius: 10%;
+  margin-left: 10%;
+  padding-right: 20%;
+  padding-left: 5%;
+  height: 2%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.vision {
+  background-color: rgba(218, 151, 173, 0.329);
+  border-radius: 10%;
+  margin-left: 10%;
+  padding-right: 20%;
+  padding-left: 5%;
+  height: 2%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.goals {
+  background-color: rgba(245, 222, 179, 0.5);
+  border-radius: 10%;
+  margin-left: 10%;
+  padding-right: 20%;
+  padding-left: 5%;
+  height: 2%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.mission-paragraph {
+  text-align: justify;
+  font-size: 17px;
+}
+
+.vision-paragraph {
+  text-align: justify;
+  font-size: 17px;
+}
+
+.goal-paragraph {
+  text-align: justify;
+  font-size: 17px;
+}
+
+.section-3 {
+  margin-left: 10%;
+  display: flex;
+  margin-bottom: 10%;
+  margin-right: 5%;
+}
+
+h2 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 50px;
+  color: rgb(14, 14, 56);
+  margin-bottom: 5%;
+}
+
+.section3-paragraph {
+  font-size: 20px;
+  padding-bottom: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.section3-flex img {
+  width: 70%;
+}
+
+.section-4 {
+  display: flex;
+  margin-left: 10%;
+  margin-bottom: 10%;
+}
+
+.section4-paragraph {
+  font-size: 20px;
+  padding-bottom: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.sec4-half img {
+  width: 80%;
+}
+
+.section-5 {
+  width: 70%;
+  margin-left: 25%;
+  margin-bottom: 10%;
+}
+
+.Corona {
+  color: #8f1f03;
+}
+
+.last-heading {
+  width: 50%;
+}
+
+.go-corona img {
+  width: 80%;
+}
+
+.section5-paragraph {
+  margin-bottom: 5%;
+  font-size: 20px;
+  padding-bottom: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.flexible {
+  display: flex;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+.year-22 {
+  color: orangered;
+}
+
+footer p {
+  color: gray;
+}
